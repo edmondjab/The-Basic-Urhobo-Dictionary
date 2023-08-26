@@ -1,0 +1,716 @@
+[
+  {
+    "name": "Akpenvwoghene",
+    "abbreviation": "Akpenvwe",
+    "meaning": "Praise God",
+    "audio": "akpenvwoghene_audio.mp3"
+  },
+  {
+    "name": "Akpobume",
+    "abbreviation": "Akpobo",
+    "meaning": "My own life",
+    "audio": "akpobume_audio.mp3"
+  },
+  {
+    "name": "Akporvwovwo",
+    "abbreviation": "Akpovwovwo",
+    "meaning": "Good life in later years",
+    "audio": "akporvwovwo_audio.mp3"
+  },
+  {
+    "name": "Anaborhi",
+    "abbreviation": "Naborhi",
+    "meaning": "Born with good destiny",
+    "audio": "anaborhi_audio.mp3"
+  },
+  {
+    "name": "Asaroyoma",
+    "abbreviation": "Sayoma",
+    "meaning": "Comfort zones",
+    "audio": "asaroyoma_audio.mp3"
+  },
+  {
+    "name": "Avwunudiogba",
+    "abbreviation": "Unudiogba",
+    "meaning": "Those who profess strength with mere talk",
+    "audio": "avwunudiogba_audio.mp3"
+  },
+  {
+    "name": "Avwunufe",
+    "abbreviation": "Efe, Wunufe",
+    "meaning": "Wealthy only by mouth, not substance",
+    "audio": "avwunufe_audio.mp3"
+  },
+  {
+    "name": "Edeki",
+    "abbreviation": "Deki",
+    "meaning": "Market day",
+    "audio": "edeki_audio.mp3"
+  },
+  {
+    "name": "Edidjana",
+    "abbreviation": "Didjana",
+    "meaning": "Sunday",
+    "audio": "edidjana_audio.mp3"
+  },
+  {
+    "name": "Edore",
+    "abbreviation": "Dore",
+    "meaning": "Day of festivity(festival)",
+    "audio": "edore_audio.mp3"
+  },
+  {
+    "name": "Eduvie",
+    "abbreviation": "Duvie",
+    "meaning": "Day of Glory",
+    "audio": "eduvie_audio.mp3"
+  },
+  {
+    "name": "Efediome",
+    "abbreviation": "Diome",
+    "meaning": "Let riches be mine",
+    "audio": "efediome_audio.mp3"
+  },
+  {
+    "name": "Efekodo",
+    "abbreviation": "Efe, Fekodo",
+    "meaning": "Famous with wealth",
+    "audio": "efekodo_audio.mp3"
+  },
+  {
+    "name": "Efemena",
+    "abbreviation": "Efe",
+    "meaning": "Here is my wealth",
+    "audio": "efemena_audio.mp3"
+  },
+  {
+    "name": "Efetobo",
+    "abbreviation": "Efe",
+    "meaning": "Wealth is achieved",
+    "audio": "efetobo_audio.mp3"
+  },
+  {
+    "name": "Efeturi",
+    "abbreviation": "Efe, Feturi",
+    "meaning": "There are more than 100 types of riches",
+    "audio": "efeturi_audio.mp3"
+  },
+  {
+    "name": "Efevwerha",
+    "abbreviation": "Efe",
+    "meaning": "Wealth is joyful",
+    "audio": "efevwerha_audio.mp3"
+  },
+  {
+    "name": "Efurhievwe",
+    "abbreviation": "Efe",
+    "meaning": "Destined to be wealthy",
+    "audio": "efurhievwe_audio.mp3"
+  },
+  {
+    "name": "Eghwrudjakpor",
+    "abbreviation": "Jakpor, Eghwrudje",
+    "meaning": "I have come to stay",
+    "audio": "eghwrudjakpor_audio.mp3"
+  },
+  {
+    "name": "Eguono",
+    "abbreviation": "Guono",
+    "meaning": "Love",
+    "audio": "eguono_audio.mp3"
+  },
+  {
+    "name": "Ejaita",
+    "abbreviation": "Jaita",
+    "meaning": "Let them say",
+    "audio": "ejaita_audio.mp3"
+  },
+  {
+    "name": "Ejiroghene",
+    "abbreviation": "Ejiro",
+    "meaning": "Praise God",
+    "audio": "ejiroghene_audio.mp3"
+  },
+  {
+    "name": "Ejokparoghene",
+    "abbreviation": "Oghene, Jokpa",
+    "meaning": "Let us trust in God",
+    "audio": "ejokparoghene_audio.mp3"
+  },
+  {
+    "name": "Ejomafuvwe",
+    "abbreviation": "Jomafu, Jomafuvwe",
+    "meaning": "Let peace reign in my life",
+    "audio": "ejomafuvwe_audio.mp3"
+  },
+  {
+    "name": "Ejoyovwi",
+    "abbreviation": "Joyovwi",
+    "meaning": "Let it be a success",
+    "audio": "ejoyovwi_audio.mp3"
+  },
+  {
+    "name": "Elohor",
+    "abbreviation": "Elohor",
+    "meaning": "Blessing",
+    "audio": "elohor_enohor_audio.mp3"
+  },
+  {
+    "name": "Enohor",
+    "abbreviation": "Elohor",
+    "meaning": "Blessing",
+    "audio": "elohor_enohor_audio.mp3"
+  },
+  {
+    "name": "Emarejedje",
+    "abbreviation": "Omare, Ejedje",
+    "meaning": "The elderly also run for life"
+  },
+  {
+    "name": "Emetemedia",
+    "abbreviation": "Metemedia",
+    "meaning": "I will always remain a lady"
+  },
+  {
+    "name": "Emeterhire",
+    "abbreviation": "Emete",
+    "meaning": "Girls have arrived"
+  },
+  {
+    "name": "Emuobosa",
+    "abbreviation": "Muobo",
+    "meaning": "Your own thing is precious"
+  },
+  {
+    "name": "Emuvoke",
+    "abbreviation": "Voke",
+    "meaning": "Everything has time"
+  },
+  {
+    "name": "Enajemete",
+    "abbreviation": "Emete",
+    "meaning": "These are also girls"
+  },
+  {
+    "name": "Enita",
+    "abbreviation": "Nita",
+    "meaning": "Watch what you say"
+  },
+  {
+    "name": "Enitekiru",
+    "abbreviation": "Eniteh",
+    "meaning": "Think before you act"
+  },
+  {
+    "name": "Enivwenaye",
+    "abbreviation": "Nivwenai",
+    "meaning": "Compare my achievements with those of my detractors"
+  },
+  {
+    "name": "Erhimeyoma",
+    "abbreviation": "Oyoma",
+    "meaning": "My God is good"
+  },
+  {
+    "name": "Erhinyoja",
+    "abbreviation": "Rhinyoja, onyoja",
+    "meaning": "God meets our challenges/ hears our prayers"
+  },
+  {
+    "name": "Erhinyuse",
+    "abbreviation": "Use",
+    "meaning": "God answers prayers"
+  },
+  {
+    "name": "Erhioghene",
+    "abbreviation": "Erhi, Ogene",
+    "meaning": "The spirit of God"
+  },
+  {
+    "name": "Erhuvwun",
+    "abbreviation": "Erhus",
+    "meaning": "Beauty"
+  },
+  {
+    "name": "Erukainure",
+    "abbreviation": "Rukainure, Eruks",
+    "meaning": "We have aided them"
+  },
+  {
+    "name": "Eseoghene",
+    "abbreviation": "Ese",
+    "meaning": "God’s gift"
+  },
+  {
+    "name": "Esereshareberuo",
+    "abbreviation": "Ese, Eseberuo",
+    "meaning": "Men are hard to please"
+  },
+  {
+    "name": "Eserovwe",
+    "abbreviation": "Ovwe, Ese",
+    "meaning": "God’s grace/ Free gift"
+  },
+  {
+    "name": "Esisorigho",
+    "abbreviation": "Esisi",
+    "meaning": "Bag of money"
+  },
+  {
+    "name": "Etanomare",
+    "abbreviation": "Tanomare, Nomare",
+    "meaning": "Freed from blame"
+  },
+  {
+    "name": "Etarakpobuno",
+    "abbreviation": "Etabuno, Tabuno",
+    "meaning": "The world has so much to say"
+  },
+  {
+    "name": "Ighofose",
+    "abbreviation": "Ose, Igho",
+    "meaning": "Money can break close relationships"
+  },
+  {
+    "name": "Ighofovwe",
+    "abbreviation": "Igho",
+    "meaning": "Wealth suites me"
+  },
+  {
+    "name": "Ighohwo",
+    "abbreviation": "Igho",
+    "meaning": "Riches make you human"
+  },
+  {
+    "name": "Iminiovwerha",
+    "abbreviation": "Imoni",
+    "meaning": "There’s joy in having blood relations"
+  },
+  {
+    "name": "Iniovosa",
+    "abbreviation": "Niovosa",
+    "meaning": "Siblings are unique"
+  },
+  {
+    "name": "Irorokpaka",
+    "abbreviation": "Rokpaka",
+    "meaning": "Deep thoughts"
+  },
+  {
+    "name": "Isio",
+    "abbreviation": "",
+    "meaning": "Stars"
+  },
+  {
+    "name": "Miriodere",
+    "abbreviation": "Miriode",
+    "meaning": "I now have a name"
+  },
+  {
+    "name": "Mitaire",
+    "abbreviation": "Mitai",
+    "meaning": "I have achieved their match"
+  },
+  {
+    "name": "Mivwodere",
+    "abbreviation": "Mivwode",
+    "meaning": "I now have a name"
+  },
+  {
+    "name": "Norionghene",
+    "abbreviation": "Norien",
+    "meaning": "Look at God’s judgement"
+  },
+  {
+    "name": "Obatere",
+    "abbreviation": "Atare",
+    "meaning": "Destiny"
+  },
+  {
+    "name": "Obiebi",
+    "abbreviation": "Biebi",
+    "meaning": "Dark"
+  },
+  {
+    "name": "Oborerhinrin",
+    "abbreviation": "Berhirin",
+    "meaning": "It’s your destiny"
+  },
+  {
+    "name": "Odavwaro",
+    "abbreviation": "Odaro",
+    "meaning": "I am contented"
+  },
+  {
+    "name": "Odibo",
+    "abbreviation": "Odibo",
+    "meaning": "Disciple/Servant"
+  },
+  {
+    "name": "Odirin",
+    "abbreviation": "Dirin",
+    "meaning": "Patience"
+  },
+  {
+    "name": "Ododo",
+    "abbreviation": "Dodo",
+    "meaning": "Red"
+  },
+  {
+    "name": "Ofuafo",
+    "abbreviation": "Fuafo",
+    "meaning": "White"
+  },
+  {
+    "name": "Ofuako",
+    "abbreviation": "Fuako",
+    "meaning": "One with white teeth"
+  },
+  {
+    "name": "Oghenebrume",
+    "abbreviation": "Brume",
+    "meaning": "God decided in my favour"
+  },
+  {
+    "name": "Oghenechovwe",
+    "abbreviation": "Chovwe, Oghene",
+    "meaning": "God aided me"
+  },
+  {
+    "name": "Oghenefejiro",
+    "abbreviation": "Ofejiro, Ejiro,Oghene",
+    "meaning": "God is praiseworthy"
+  },
+  {
+    "name": "Oghenegaren",
+    "abbreviation": "Garen, Ogene",
+    "meaning": "God is great"
+  },
+  {
+    "name": "Oghenekevwe",
+    "abbreviation": "Kevwe, Oghene",
+    "meaning": "God gave me"
+  },
+  {
+    "name": "Oghenekohwo",
+    "abbreviation": "Oghene, Kohwo",
+    "meaning": "God provides"
+  },
+  {
+    "name": "Ogheneme",
+    "abbreviation": "Ome, Oghene",
+    "meaning": "My God"
+  },
+  {
+    "name": "Oghenemine",
+    "abbreviation": "Mimi, Mine",
+    "meaning": "I look up to God"
+  },
+  {
+    "name": "Oghenenyerhovwo",
+    "abbreviation": "Nyerhovwo, Oghene",
+    "meaning": "God answers prayers"
+  },
+  {
+    "name": "Oghenenyore",
+    "abbreviation": "Nyore, Oghene",
+    "meaning": "God answers prayers"
+  },
+  {
+    "name": "Ogheneochuko",
+    "abbreviation": "Ochuko, Oghene",
+    "meaning": "God provides my support"
+  },
+  {
+    "name": "Oghenerhoro",
+    "abbreviation": "Oghene",
+    "meaning": "God makes all things possible"
+  },
+  {
+    "name": "Ogheneruemu",
+    "abbreviation": "Oghene",
+    "meaning": "God makes all things possible"
+  },
+  {
+    "name": "Oghenerukevwe",
+    "abbreviation": "Rukevwe, Rukky, Ruks",
+    "meaning": "God did this for me"
+  },
+  {
+    "name": "Ogheneruno",
+    "abbreviation": "Oruno, Runo",
+    "meaning": "God has so much"
+  },
+  {
+    "name": "Oghenetega",
+    "abbreviation": "Otega, Tega, Oghene",
+    "meaning": "God is worthy to be worshipped"
+  },
+  {
+    "name": "Oghenevwede",
+    "abbreviation": "Oghenede, Oghene",
+    "meaning": "God owns the day"
+  },
+  {
+    "name": "Oghenevwogagan",
+    "abbreviation": "Ogaga, Gaga, Oghene",
+    "meaning": "God provides all my strength"
+  },
+  {
+    "name": "Oghomena",
+    "abbreviation": "Ogho, Omena",
+    "meaning": "Here is my respect"
+  },
+  {
+    "name": "Oghonoro",
+    "abbreviation": "Ogho, Onoro",
+    "meaning": "Respect is greater than riches"
+  },
+  {
+    "name": "Ohwevwo",
+    "abbreviation": "Ohwo",
+    "meaning": "Good human relationship provides valuable support"
+  },
+  {
+    "name": "Ojanomare",
+    "abbreviation": "Janoma",
+    "meaning": "I have met the challenge"
+  },
+  {
+    "name": "Okeroghene",
+    "abbreviation": "Okeoghene, Oghene",
+    "meaning": "God’s own time"
+  },
+  {
+    "name": "Okiremute",
+    "abbreviation": "Okite",
+    "meaning": "There’s time for everything"
+  },
+  {
+    "name": "Okpako",
+    "abbreviation": "Kpako",
+    "meaning": "Senior"
+  },
+  {
+    "name": "Okposio",
+    "abbreviation": "Osio",
+    "meaning": "Heavy Rain"
+  },
+  {
+    "name": "Omafuvwe",
+    "abbreviation": "Mafuvwe, Oma",
+    "meaning": "I am at peace"
+  },
+  {
+    "name": "Omarmerhi",
+    "abbreviation": "Mamerhi, Oma",
+    "meaning": "Good God"
+  },
+  {
+    "name": "Omenasan",
+    "abbreviation": "Menasan",
+    "meaning": "Mine is unique"
+  },
+  {
+    "name": "Omodibo",
+    "abbreviation": "Modibo",
+    "meaning": "Young disciple/servant"
+  },
+  {
+    "name": "Omoefe",
+    "abbreviation": "Omo, Efe",
+    "meaning": "Child is wealth"
+  },
+  {
+    "name": "Omonigho",
+    "abbreviation": "Omo, Igho",
+    "meaning": "Child is greater than riches"
+  },
+  {
+    "name": "Omonoro",
+    "abbreviation": "Omo, Onoro",
+    "meaning": "Child is greater than gold"
+  },
+  {
+    "name": "Omonoro",
+    "abbreviation": "Monoro, Oro",
+    "meaning": "A child is greater than gold"
+  },
+  {
+    "name": "Omote",
+    "abbreviation": "Omote",
+    "meaning": "Girl"
+  },
+  {
+    "name": "Omotejohwo",
+    "abbreviation": "Omote",
+    "meaning": "A girl is also a human being"
+  },
+  {
+    "name": "Omoteko",
+    "abbreviation": "Eko",
+    "meaning": "Girl born in Lagos"
+  },
+  {
+    "name": "Omotekoro",
+    "abbreviation": "Oro",
+    "meaning": "A girl is like Gold"
+  },
+  {
+    "name": "Omotore",
+    "abbreviation": "Tore, Omote",
+    "meaning": "Birth of a girl brings festivity"
+  },
+  {
+    "name": "Omotughele",
+    "abbreviation": "Motughele",
+    "meaning": "Girl from Ughelli"
+  },
+  {
+    "name": "Omotukane",
+    "abbreviation": "Motukane",
+    "meaning": "Girl born in the Diaspora"
+  },
+  {
+    "name": "Omovigho",
+    "abbreviation": "Omo, Igho",
+    "meaning": "Child brings wealth"
+  },
+  {
+    "name": "Omoyibo",
+    "abbreviation": "Moyibo",
+    "meaning": "Little fair person"
+  },
+  {
+    "name": "Onajite",
+    "abbreviation": "Ojite",
+    "meaning": "This is sufficient"
+  },
+  {
+    "name": "Onajite",
+    "abbreviation": "Jite, Ojite",
+    "meaning": "This is sufficient"
+  },
+  {
+    "name": "Onakpoma",
+    "abbreviation": "Ono",
+    "meaning": "Who creates life?"
+  },
+  {
+    "name": "Onanefe",
+    "abbreviation": "Efe, Ona",
+    "meaning": "This child is greater than riches"
+  },
+  {
+    "name": "Onofeghara",
+    "abbreviation": "Efe, Nofeghara",
+    "meaning": "Who shares his wealth with others"
+  },
+  {
+    "name": "Onoharhese",
+    "abbreviation": "Norhahese",
+    "meaning": "Who blames good deeds"
+  },
+  {
+    "name": "Onomavwe",
+    "abbreviation": "Ono",
+    "meaning": "Who is my creator?"
+  },
+  {
+    "name": "Onome",
+    "abbreviation": "Onome",
+    "meaning": "This is mine"
+  },
+  {
+    "name": "Onomine",
+    "abbreviation": "Mimi, Ono",
+    "meaning": "Whom do I look up to?"
+  },
+  {
+    "name": "Onoriode",
+    "abbreviation": "Ono",
+    "meaning": "Who knows tomorrow"
+  },
+  {
+    "name": "Onovughakpor",
+    "abbreviation": "Onovughe, Ono",
+    "meaning": "Who can predict what life can bring?"
+  },
+  {
+    "name": "Orodena",
+    "abbreviation": "Orode",
+    "meaning": "The great one"
+  },
+  {
+    "name": "Osio",
+    "abbreviation": "Osio",
+    "meaning": "Rain"
+  },
+  {
+    "name": "Otevwobrise",
+    "abbreviation": "Otobrise, Otobru",
+    "meaning": "It’s sufficient to make parables"
+  },
+  {
+    "name": "Oviereya",
+    "abbreviation": "Ovieya",
+    "meaning": "Queen"
+  },
+  {
+    "name": "Ovigueraye",
+    "abbreviation": "Ovigue",
+    "meaning": "Everyone with his/her own destiny"
+  },
+  {
+    "name": "Ovuevuraye",
+    "abbreviation": "Ovuevu, Vuevuraye",
+    "meaning": "Everyone has his/ her own mind"
+  },
+  {
+    "name": "Oyabevwe",
+    "abbreviation": "Oyabe",
+    "meaning": "Tired of sojourn"
+  },
+  {
+    "name": "Oyibo",
+    "abbreviation": "Oyibo",
+    "meaning": "Fair skinned"
+  },
+  {
+    "name": "Oyovwikemo",
+    "abbreviation": "Kemo, Yovwike",
+    "meaning": "May our children be blessed"
+  },
+  {
+    "name": "Oyovwikerhi",
+    "abbreviation": "Kerhi, Yovwike",
+    "meaning": "May my God be blessed"
+  },
+  {
+    "name": "Ufuoma",
+    "abbreviation": "Fuoma",
+    "meaning": "Peace of mind"
+  },
+  {
+    "name": "Ughwubetine",
+    "abbreviation": "Betine",
+    "meaning": "No more deaths"
+  },
+  {
+    "name": "Umukoko",
+    "abbreviation": "Okoko",
+    "meaning": "Young woman"
+  },
+  {
+    "name": "Umuto",
+    "abbreviation": "Muto",
+    "meaning": "Woman"
+  },
+  {
+    "name": "Uruemuesiri",
+    "abbreviation": "Esiri, Uruemu",
+    "meaning": "Good deeds"
+  }
+]
+
+

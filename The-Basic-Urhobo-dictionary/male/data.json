@@ -1,0 +1,1107 @@
+[
+  {
+    "name": "Achojah",
+    "abbreviation": "Achojah",
+    "meaning": "Rise up to a challenge",
+    "audio": "path/to/achojah_audio.mp3"
+  },
+  {
+    "name": "Agbarha",
+    "abbreviation": "Agbarha",
+    "meaning": "Born in Agbarha",
+    "audio": "path/to/agbarha_audio.mp3"
+  },
+  {
+    "name": "Akpenvwoghene",
+    "abbreviation": "Akpenvwe",
+    "meaning": "Praise God",
+    "audio": "path/to/akpenvwoghene_audio.mp3"
+  },
+  {
+    "name": "Anaborhi",
+    "abbreviation": "Naborhi",
+    "meaning": "Born with good destiny",
+    "audio": "path/to/anaborhi_audio.mp3"
+  },
+  {
+    "name": "Aruegodore",
+    "abbreviation": "Egodo",
+    "meaning": "We have established",
+    "audio": "path/to/aruegodore_audio.mp3"
+  },
+  {
+    "name": "Akpobume",
+    "abbreviation": "Akpobo",
+    "meaning": "My own life",
+    "audio": "path/to/akpobume_audio.mp3"
+  },
+  {
+    "name": "Akpofure",
+    "abbreviation": "Ofure",
+    "meaning": "Life is now peaceful",
+    "audio": "path/to/akpofure_audio.mp3"
+  },
+  {
+    "name": "Akporvwovwo",
+    "abbreviation": "Akpovwovwo",
+    "meaning": "Good life in later years",
+    "audio": "path/to/akporvwovwo_audio.mp3"
+  },
+  {
+    "name": "Ataikiru",
+    "abbreviation": "Taikiru",
+    "meaning": "Plan before taking action",
+    "audio": "path/to/ataikiru_audio.mp3"
+  },
+  {
+    "name": "Avwunudiogba",
+    "abbreviation": "Unudiogba",
+    "meaning": "Those who profess strength with mere talk",
+    "audio": "path/to/avwunudiogba_audio.mp3"
+  },
+  {
+    "name": "Avwunufe",
+    "abbreviation": "Efe, Wunufe",
+    "meaning": "Wealthy only by mouth, not substance",
+    "audio": "path/to/avwunufe_audio.mp3"
+  },
+  {
+    "name": "Etaredafe",
+    "abbreviation": "Dafe",
+    "meaning": "Words of the wealthy",
+    "audio": "path/to/etaredafe_audio.mp3"
+  },
+  {
+    "name": "Edafetanure",
+    "abbreviation": "Tanure",
+    "meaning": "The wealthy has spoken",
+    "audio": "path/to/edafetanure_audio.mp3"
+  },
+  {
+    "name": "Edewor",
+    "abbreviation": "Dewor",
+    "meaning": "Traditional religion sacred day of worship",
+    "audio": "path/to/edewor_audio.mp3"
+  },
+  {
+    "name": "Edojah",
+    "abbreviation": "Dojah",
+    "meaning": "Day of challenge",
+    "audio": "path/to/edojah_audio.mp3"
+  },
+  {
+    "name": "Efemena",
+    "abbreviation": "Efe",
+    "meaning": "Here is my wealth",
+    "audio": "path/to/efemena_audio.mp3"
+  },
+  {
+    "name": "Efemini",
+    "abbreviation": "Efe",
+    "meaning": "Let’s see how wealthy you will be",
+    "audio": "path/to/efemini_audio.mp3"
+  },
+  {
+    "name": "Efemuaye",
+    "abbreviation": "Efe",
+    "meaning": "Those intoxicated with riches",
+    "audio": "path/to/efemuaye_audio.mp3"
+  },
+  {
+    "name": "Efetobo",
+    "abbreviation": "Efe",
+    "meaning": "Wealth is achieved",
+    "audio": "path/to/efetobo_audio.mp3"
+  },
+  {
+    "name": "Efetobore",
+    "abbreviation": "Tobore",
+    "meaning": "Wealth has now been achieved",
+    "audio": "path/to/efetobore_audio.mp3"
+  },
+  {
+    "name": "Ejiroghene",
+    "abbreviation": "Ejiro",
+    "meaning": "Praise God",
+    "audio": "path/to/ejiroghene_audio.mp3"
+  },
+  {
+    "name": "Ejokparoghene",
+    "abbreviation": "Oghene, Jokpa",
+    "meaning": "Let us trust in God",
+    "audio": "path/to/ejokparoghene_audio.mp3"
+  },
+  {
+    "name": "Ejomafuvwe",
+    "abbreviation": "Jomafu, Jomafuvwe",
+    "meaning": "Let peace reign in my life",
+    "audio": "path/to/ejomafuvwe_audio.mp3"
+  },
+  {
+    "name": "Erhiaganoma",
+    "abbreviation": "Erhi, Rhiaganoma",
+    "meaning": "God overpowers the body",
+    "audio": "path/to/erhiaganoma_audio.mp3"
+  },
+  {
+    "name": "Erhimeyoma",
+    "abbreviation": "Oyoma",
+    "meaning": "My God is good",
+    "audio": "path/to/erhimeyoma_audio.mp3"
+  },
+  {
+    "name": "Erhinyoja",
+    "abbreviation": "Rhinyoja, onyoja",
+    "meaning": "God meets our challenges/ hears our prayers",
+    "audio": "path/to/erhinyoja_audio.mp3"
+  },
+  {
+    "name": "Erhinyuse",
+    "abbreviation": "Use",
+    "meaning": "God answers prayers",
+    "audio": "path/to/erhinyuse_audio.mp3"
+  },
+  {
+    "name": "Erhioghene",
+    "abbreviation": "Erhi, Ogene",
+    "meaning": "The spirit of God",
+    "audio": "path/to/erhioghene_audio.mp3"
+  },
+  {
+    "name": "Eseoghene",
+    "abbreviation": "Ese",
+    "meaning": "God’s gift",
+    "audio": "path/to/eseoghene_audio.mp3"
+  },
+  {
+    "name": "Eserovwe",
+    "abbreviation": "Ovwe, Ese",
+    "meaning": "God’s grace/ Free gift",
+    "audio": "path/to/eserovwe_audio.mp3"
+  },
+  {
+    "name": "Etanomare",
+    "abbreviation": "Tanomare, Nomare",
+    "meaning": "Freed from blame",
+    "audio": "path/to/etanomare_audio.mp3"
+  },
+  {
+    "name": "Edaferierhi",
+    "abbreviation": "Edafe",
+    "meaning": "The rich have good destiny",
+    "audio": "path/to/edaferierhi_audio.mp3"
+  },
+  {
+    "name": "Edemirukaye",
+    "abbreviation": "Ede, Demirukai",
+    "meaning": "The day I did them a favour",
+    "audio": "path/to/edemirukaye_audio.mp3"
+  },
+  {
+    "name": "Eghwrudjakpor",
+    "abbreviation": "Jakpor, Eghwrudje",
+    "meaning": "I have come to stay",
+    "audio": "path/to/eghwrudjakpor_audio.mp3"
+  },
+  {
+    "name": "Eguono",
+    "abbreviation": "Guono",
+    "meaning": "Love",
+    "audio": "path/to/eguono_audio.mp3"
+  },
+  {
+    "name": "Ejaita",
+    "abbreviation": "Jaita",
+    "meaning": "Let them say",
+    "audio": "path/to/ejaita_audio.mp3"
+  },
+  {
+    "name": "Ejoyovwi",
+    "abbreviation": "Joyovwi",
+    "meaning": "Let it be a success",
+    "audio": "path/to/ejoyovwi_audio.mp3"
+  },
+  {
+    "name": "Emarejedje",
+    "abbreviation": "Omare, Ejedje",
+    "meaning": "The elderly also run for life",
+    "audio": "path/to/emarejedje_audio.mp3"
+  },
+  {
+    "name": "Emetitiri",
+    "abbreviation": "Metitiri",
+    "meaning": "Mine is famous",
+    "audio": "path/to/emetitiri_audio.mp3"
+  },
+  {
+    "name": "Emudiaga",
+    "abbreviation": "Mudiaga",
+    "meaning": "Let’s stand firmly",
+    "audio": "path/to/emudiaga_audio.mp3"
+  },
+  {
+    "name": "Emuobosa",
+    "abbreviation": "Muobo",
+    "meaning": "Your own thing is precious",
+    "audio": "path/to/emuobosa_audio.mp3"
+  },
+  {
+    "name": "Emuvoke",
+    "abbreviation": "Voke",
+    "meaning": "Everything has time",
+    "audio": "path/to/emuvoke_audio.mp3"
+  },
+  {
+    "name": "Enakpodia",
+    "abbreviation": "Nakpodia",
+    "meaning": "The way life should be",
+    "audio": "path/to/enakpodia_audio.mp3"
+  },
+  {
+    "name": "Enita",
+    "abbreviation": "Nita",
+    "meaning": "Watch what you say",
+    "audio": "path/to/enita_audio.mp3"
+  },
+  {
+    "name": "Enitekiru",
+    "abbreviation": "Eniteh",
+    "meaning": "Think before you act",
+    "audio": "path/to/enitekiru_audio.mp3"
+  },
+  {
+    "name": "Enivwenaye",
+    "abbreviation": "Nivwenai",
+    "meaning": "Compare my achievements with those of my detractors",
+    "audio": "path/to/enivwenaye_audio.mp3"
+  },
+  {
+    "name": "Erhuvwun",
+    "abbreviation": "Erhus",
+    "meaning": "Beauty",
+    "audio": "path/to/erhuvwun_audio.mp3"
+  },
+  {
+    "name": "Erukainure",
+    "abbreviation": "Rukainure, Eruks",
+    "meaning": "We have aided them",
+    "audio": "path/to/erukainure_audio.mp3"
+  },
+  {
+    "name": "Etarakpobuno",
+    "abbreviation": "Etabuno, Tabuno",
+    "meaning": "The world has so much to say",
+    "audio": "path/to/etarakpobuno_audio.mp3"
+  },
+  {
+    "name": "Edeki",
+    "abbreviation": "Deki",
+    "meaning": "Market day",
+    "audio": "path/to/edeki_audio.mp3"
+  },
+  {
+    "name": "Edidjana",
+    "abbreviation": "Didjana",
+    "meaning": "Sunday",
+    "audio": "path/to/edidjana_audio.mp3"
+  },
+  {
+    "name": "Edore",
+    "abbreviation": "Dore",
+    "meaning": "Day of festivity(festival)",
+    "audio": "path/to/edore_audio.mp3"
+  },
+  {
+    "name": "Eduvie",
+    "abbreviation": "Duvie",
+    "meaning": "Day of Glory",
+    "audio": "path/to/eduvie_audio.mp3"
+  },
+  {
+    "name": "Efediome",
+    "abbreviation": "Diome",
+    "meaning": "Let riches be mine",
+    "audio": "path/to/efediome_audio.mp3"
+  },
+  {
+    "name": "Efekodo",
+    "abbreviation": "Efe, Fekodo",
+    "meaning": "Famous with wealth",
+    "audio": "path/to/efekodo_audio.mp3"
+  },
+  {
+    "name": "Efemena",
+    "abbreviation": "Efe",
+    "meaning": "Here is my wealth",
+    "audio": "path/to/efemena_audio.mp3"
+  },
+  {
+    "name": "Efemuaye",
+    "abbreviation": "Efe",
+    "meaning": "Those intoxicated with riches",
+    "audio": "path/to/efemuaye_audio.mp3"
+  },
+  {
+    "name": "Efeturi",
+    "abbreviation": "Efe, Feturi",
+    "meaning": "There are more than 100 types of riches",
+    "audio": "path/to/efeturi_audio.mp3"
+  },
+  {
+    "name": "Efevwerha",
+    "abbreviation": "Efe",
+    "meaning": "Wealth is joyful",
+    "audio": "path/to/efevwerha_audio.mp3"
+  },
+  {
+    "name": "Efurhievwe",
+    "abbreviation": "Efe",
+    "meaning": "Destined to be wealthy",
+    "audio": "path/to/efurhievwe_audio.mp3"
+  },
+  {
+    "name": "Ejaife",
+    "abbreviation": "Jaife",
+    "meaning": "Let them be wealthy",
+    "audio": "path/to/ejaife_audio.mp3"
+  },
+  {
+    "name": "Esisorigho",
+    "abbreviation": "Esisi",
+    "meaning": "Bag of money",
+    "audio": "path/to/esisorigho_audio.mp3"
+  },
+  {
+    "name": "Etaidaferua",
+    "abbreviation": "Taidafe",
+    "meaning": "Words of the wealthy are more acceptable",
+    "audio": "path/to/etaidaferua_audio.mp3"
+  },
+  {
+    "name": "Edosio",
+    "abbreviation": "Ede, Osio",
+    "meaning": "Rainy day",
+    "audio": "path/to/edosio_audio.mp3"
+  },
+  {
+    "name": "Egbo",
+    "abbreviation": "Egbo",
+    "meaning": "Forest",
+    "audio": "path/to/egbo_audio.mp3"
+  },
+  {
+    "name": "Emeni",
+    "abbreviation": "Meni",
+    "meaning": "Small Elephant",
+    "audio": "path/to/emeni_audio.mp3"
+  },
+  {
+    "name": "Emerho",
+    "abbreviation": "Merho",
+    "meaning": "Small Catfish",
+    "audio": "path/to/emerho_audio.mp3"
+  },
+  {
+    "name": "Eni",
+    "abbreviation": "Eni",
+    "meaning": "Elephant",
+    "audio": "path/to/eni_audio.mp3"
+  },
+  {
+    "name": "Erhue",
+    "abbreviation": "Erhue",
+    "meaning": "A special breed of cow used for traditional ceremonies",
+    "audio": "path/to/erhue_audio.mp3"
+  },
+  {
+    "name": "Emetisiorho",
+    "abbreviation": "Isiorho",
+    "meaning": "Children born in the Diaspora",
+    "audio": "path/to/emetisiorho_audio.mp3"
+  },
+  {
+    "name": "Ighomuedafe",
+    "abbreviation": "Igho, Dafe",
+    "meaning": "Money Intoxicates the wealthy",
+    "audio": "path/to/ighomuedafe_audio.mp3"
+  },
+  {
+    "name": "Ighovavwerhe",
+    "abbreviation": "Igho",
+    "meaning": "There is joy in riches",
+    "audio": "path/to/ighovavwerhe_audio.mp3"
+  },
+  {
+    "name": "Irorokpaka",
+    "abbreviation": "Rokpaka",
+    "meaning": "Deep thoughts",
+    "audio": "path/to/irorokpaka_audio.mp3"
+  },
+  {
+    "name": "Isio",
+    "abbreviation": "Isio",
+    "meaning": "Stars",
+    "audio": "path/to/isio_audio.mp3"
+  },
+  {
+    "name": "Iminiovwerha",
+    "abbreviation": "Imoni",
+    "meaning": "There’s joy in having blood relations",
+    "audio": "path/to/iminiovwerha_audio.mp3"
+  },
+  {
+    "name": "Iniovosa",
+    "abbreviation": "Niovosa",
+    "meaning": "Siblings are unique",
+    "audio": "path/to/iniovosa_audio.mp3"
+  },
+  {
+    "name": "Igberaharha",
+    "abbreviation": "Gberaharhar",
+    "meaning": "The poor takes the blame",
+    "audio": "path/to/igberaharha_audio.mp3"
+  },
+  {
+    "name": "Ighofose",
+    "abbreviation": "Ose, Igho",
+    "meaning": "Money can break close relationships",
+    "audio": "path/to/ighofose_audio.mp3"
+  },
+  {
+    "name": "Ighofovwe",
+    "abbreviation": "Igho",
+    "meaning": "Wealth suits me",
+    "audio": "path/to/ighofovwe_audio.mp3"
+  },
+  {
+    "name": "Ighohwo",
+    "abbreviation": "Igho",
+    "meaning": "Riches make you human",
+    "audio": "path/to/ighohwo_audio.mp3"
+  },
+  {
+    "name": "Irikefe",
+    "abbreviation": "Kefe",
+    "meaning": "First to become wealthy",
+    "audio": "path/to/irikefe_audio.mp3"
+  },
+  {
+    "name": "Miriodere",
+    "abbreviation": "Miriode",
+    "meaning": "I now have a name",
+    "audio": "path/to/miriodere_audio.mp3"
+  },
+  {
+    "name": "Mitaire",
+    "abbreviation": "Mitai",
+    "meaning": "I have achieved their match",
+    "audio": "path/to/mitaire_audio.mp3"
+  },
+  {
+    "name": "Mivwodere",
+    "abbreviation": "Mivwode",
+    "meaning": "I now have a name",
+    "audio": "path/to/mivwodere_audio.mp3"
+  },
+  {
+    "name": "Norioghene",
+    "abbreviation": "Norien",
+    "meaning": "Look at God’s judgement",
+    "audio": "path/to/norioghene_audio.mp3"
+  },
+  {
+    "name": "Oboganriemu",
+    "abbreviation": "Obogan",
+    "meaning": "Be strong to survive",
+    "audio": "path/to/oboganriemu_audio.mp3"
+  },
+  {
+    "name": "Odafe",
+    "abbreviation": "Dafe",
+    "meaning": "Rich individual",
+    "audio": "path/to/odafe_audio.mp3"
+  },
+  {
+    "name": "Odavwaro",
+    "abbreviation": "Odaro",
+    "meaning": "I am contented",
+    "audio": "path/to/odavwaro_audio.mp3"
+  },
+  {
+    "name": "Ogbamremu",
+    "abbreviation": "Ogba",
+    "meaning": "The brave meets a lot of challenges",
+    "audio": "path/to/ogbamremu_audio.mp3"
+  },
+  {
+    "name": "Oghenebrume",
+    "abbreviation": "Brume",
+    "meaning": "God decided in my favour",
+    "audio": "path/to/oghenebrume_audio.mp3"
+  },
+  {
+    "name": "Oghenechovwe",
+    "abbreviation": "Chovwe",
+    "meaning": "God aided me",
+    "audio": "path/to/oghenechovwe_audio.mp3"
+  },
+  {
+    "name": "Oghenefejiro",
+    "abbreviation": "Ofejiro, Ejiro, Oghene",
+    "meaning": "God is praiseworthy",
+    "audio": "path/to/oghenefejiro_audio.mp3"
+  },
+  {
+    "name": "Oghenegaren",
+    "abbreviation": "Garen, Ogene",
+    "meaning": "God is great",
+    "audio": "path/to/oghenegaren_audio.mp3"
+  },
+  {
+    "name": "Oghenekevwe",
+    "abbreviation": "Kevwe, Oghene",
+    "meaning": "God gave me",
+    "audio": "path/to/oghenekevwe_audio.mp3"
+  },
+  {
+    "name": "Oghenekohwo",
+    "abbreviation": "Oghene, Kohwo",
+    "meaning": "God provides",
+    "audio": "path/to/oghenekohwo_audio.mp3"
+  },
+  {
+    "name": "Ogheneme",
+    "abbreviation": "Ome, Oghene",
+    "meaning": "My God",
+    "audio": "path/to/ogheneme_audio.mp3"
+  },
+  {
+    "name": "Oghenemine",
+    "abbreviation": "Mimi, Mine",
+    "meaning": "I look up to God",
+    "audio": "path/to/oghenemine_audio.mp3"
+  },
+  {
+    "name": "Oghenenyore",
+    "abbreviation": "Nyore, Oghene",
+    "meaning": "God answers prayers",
+    "audio": "path/to/oghenenyore_audio.mp3"
+  },
+  {
+    "name": "Ogheneruemu",
+    "abbreviation": "Oghene",
+    "meaning": "God makes all things possible",
+    "audio": "path/to/ogheneruemu_audio.mp3"
+  },
+  {
+    "name": "Oghenerukevwe",
+    "abbreviation": "Rukevwe, Rukky, Ruks",
+    "meaning": "God did this for me",
+    "audio": "path/to/oghenerukevwe_audio.mp3"
+  },
+  {
+    "name": "Ogheneruno",
+    "abbreviation": "Oruno, Runo",
+    "meaning": "God has so much",
+    "audio": "path/to/ogheneruno_audio.mp3"
+  },
+  {
+    "name": "Oghenetega",
+    "abbreviation": "Otega, Tega, Oghene",
+    "meaning": "God is worthy to be worshipped",
+    "audio": "path/to/oghenetega_audio.mp3"
+  },
+  {
+    "name": "Oghenevwede",
+    "abbreviation": "Oghenede, Oghene",
+    "meaning": "God owns the day",
+    "audio": "path/to/oghenevwede_audio.mp3"
+  },
+  {
+    "name": "Oghenevwogagan",
+    "abbreviation": "Ogaga, Gaga, Oghene",
+    "meaning": "God provides all my strength",
+    "audio": "path/to/oghenevwogagan_audio.mp3"
+  },
+  {
+    "name": "Ogheneochuko",
+    "abbreviation": "Ochuko, Oghene",
+    "meaning": "God provides my support",
+    "audio": "path/to/ogheneochuko_audio.mp3"
+  },
+  {
+    "name": "Oghenenyerhovwo",
+    "abbreviation": "Nyerhovwo, Oghene",
+    "meaning": "God answers prayers",
+    "audio": "path/to/oghenenyerhovwo_audio.mp3"
+  },
+  {
+    "name": "Oghenerhoro",
+    "abbreviation": "Oghene",
+    "meaning": "God makes all things possible",
+    "audio": "path/to/oghenerhoro_audio.mp3"
+  },
+  {
+    "name": "Oghomena",
+    "abbreviation": "Ogho, Omena",
+    "meaning": "Here is my respect",
+    "audio": "path/to/oghomena_audio.mp3"
+  },
+  {
+    "name": "Oghonoro",
+    "abbreviation": "Ogho, Onoro",
+    "meaning": "Respect is greater than riches",
+    "audio": "path/to/oghonoro_audio.mp3"
+  },
+  {
+    "name": "Okagbare",
+    "abbreviation": "Kagbare",
+    "meaning": "Now I have all skills",
+    "audio": "path/to/okagbare_audio.mp3"
+  },
+  {
+    "name": "Okeroghene",
+    "abbreviation": "Okeoghene, Oghene",
+    "meaning": "God’s own time",
+    "audio": "path/to/okeroghene_audio.mp3"
+  },
+  {
+    "name": "Ojakorotu",
+    "abbreviation": "Jakorotu, Orotu",
+    "meaning": "This is a group challenge",
+    "audio": "path/to/ojakorotu_audio.mp3"
+  },
+  {
+    "name": "Ojanomare",
+    "abbreviation": "Janoma",
+    "meaning": "I have met the challenge",
+    "audio": "path/to/ojanomare_audio.mp3"
+  },
+  {
+    "name": "Omarmerhi",
+    "abbreviation": "Mamerhi, Oma",
+    "meaning": "Good God",
+    "audio": "path/to/omarmerhi_audio.mp3"
+  },
+  {
+    "name": "Omonigho",
+    "abbreviation": "Omo, Igho",
+    "meaning": "Child is greater than riches",
+    "audio": "path/to/omonigho_audio.mp3"
+  },
+  {
+    "name": "Omonoro",
+    "abbreviation": "Omo, Onoro",
+    "meaning": "Child is greater than gold",
+    "audio": "path/to/omonoro_audio.mp3"
+  },
+  {
+    "name": "Onajite",
+    "abbreviation": "Ojite",
+    "meaning": "This is sufficient",
+    "audio": "path/to/onajite_audio.mp3"
+  },
+  {
+    "name": "Onakpoma",
+    "abbreviation": "Ono",
+    "meaning": "Who creates life?",
+    "audio": "path/to/onakpoma_audio.mp3"
+  },
+  {
+    "name": "Onanojah",
+    "abbreviation": "Onojah",
+    "meaning": "This is a challenge",
+    "audio": "path/to/onanojah_audio.mp3"
+  },
+  {
+    "name": "Onogaganmue",
+    "abbreviation": "Ono, Ogagan",
+    "meaning": "Who is intoxicated with power?",
+    "audio": "path/to/onogaganmue_audio.mp3"
+  },
+  {
+    "name": "Onoharhese",
+    "abbreviation": "Norhahese",
+    "meaning": "Who blames good deeds",
+    "audio": "path/to/onoharhese_audio.mp3"
+  },
+  {
+    "name": "Onomavwe",
+    "abbreviation": "Ono",
+    "meaning": "Who is my creator?",
+    "audio": "path/to/onomavwe_audio.mp3"
+  },
+  {
+    "name": "Onomine",
+    "abbreviation": "Mimi, Ono",
+    "meaning": "Whom do I look up to?",
+    "audio": "path/to/onomine_audio.mp3"
+  },
+  {
+    "name": "Onovughakpor",
+    "abbreviation": "Onovughe, Ono",
+    "meaning": "Who can predict what life can bring?",
+    "audio": "path/to/onovughakpor_audio.mp3"
+  },
+  {
+    "name": "Orodena",
+    "abbreviation": "Orode",
+    "meaning": "The great one",
+    "audio": "path/to/orodena_audio.mp3"
+  },
+  {
+    "name": "Oyovwikemo",
+    "abbreviation": "Kemo, Yovwike",
+    "meaning": "May our children be blessed",
+    "audio": "path/to/oyovwikemo_audio.mp3"
+  },
+  {
+    "name": "Oyovwikerhi",
+    "abbreviation": "Kerhi, Yovwike",
+    "meaning": "May my God be blessed",
+    "audio": "path/to/oyovwikerhi_audio.mp3"
+  },
+  {
+    "name": "Oba",
+    "abbreviation": "Oba",
+    "meaning": "King",
+    "audio": "path/to/oba_audio.mp3"
+  },
+  {
+    "name": "Obatere",
+    "abbreviation": "Atare",
+    "meaning": "Destiny",
+    "audio": "path/to/obatere_audio.mp3"
+  },
+  {
+    "name": "Oborerhinrin",
+    "abbreviation": "Berhirin",
+    "meaning": "It’s your destiny",
+    "audio": "path/to/oborerhinrin_audio.mp3"
+  },
+  {
+    "name": "Odirin",
+    "abbreviation": "Dirin",
+    "meaning": "Patience",
+    "audio": "path/to/odirin_audio.mp3"
+  },
+  {
+    "name": "Ogbeta",
+    "abbreviation": "Gbeta",
+    "meaning": "Bad talk",
+    "audio": "path/to/ogbeta_audio.mp3"
+  },
+  {
+    "name": "Okiremute",
+    "abbreviation": "Okite",
+    "meaning": "There’s time for everything",
+    "audio": "path/to/okiremute_audio.mp3"
+  },
+  {
+    "name": "Okpako",
+    "abbreviation": "Kpako",
+    "meaning": "Senior",
+    "audio": "path/to/okpako_audio.mp3"
+  },
+  {
+    "name": "Omafuvwe",
+    "abbreviation": "Mafuvwe, Oma",
+    "meaning": "I am at peace",
+    "audio": "path/to/omafuvwe_audio.mp3"
+  },
+  {
+    "name": "Omenasan",
+    "abbreviation": "Menasan",
+    "meaning": "Mine is unique",
+    "audio": "path/to/omenasan_audio.mp3"
+  },
+  {
+    "name": "Onome",
+    "abbreviation": "Onome",
+    "meaning": "This is mine",
+    "audio": "path/to/onome_audio.mp3"
+  },
+  {
+    "name": "Onoriode",
+    "abbreviation": "Ono",
+    "meaning": "Who knows tomorrow",
+    "audio": "path/to/onoriode_audio.mp3"
+  },
+  {
+    "name": "Orodena",
+    "abbreviation": "Orode",
+    "meaning": "The great one",
+    "audio": "path/to/orodena_audio.mp3"
+  },
+  {
+    "name": "Otevwobrise",
+    "abbreviation": "Otobrise, Otobru",
+    "meaning": "It’s sufficient to make parables",
+    "audio": "path/to/otevwobrise_audio.mp3"
+  },
+  {
+    "name": "Ovie",
+    "abbreviation": "Ovie",
+    "meaning": "King",
+    "audio": "path/to/ovie_audio.mp3"
+  },
+  {
+    "name": "Ovigueraye",
+    "abbreviation": "Ovigue",
+    "meaning": "Everyone with his/her own destiny",
+    "audio": "path/to/ovigueraye_audio.mp3"
+  },
+  {
+    "name": "Ovuevuraye",
+    "abbreviation": "Ovuevu, Vuevuraye",
+    "meaning": "Everyone has his/ her own mind",
+    "audio": "path/to/ovuevuraye_audio.mp3"
+  },
+  {
+    "name": "Oyabevwe",
+    "abbreviation": "Oyabe",
+    "meaning": "Tired of sojourn",
+    "audio": "path/to/oyabevwe_audio.mp3"
+  },
+  {
+    "name": "Odibo",
+    "abbreviation": "Odibo",
+    "meaning": "Disciple/Servant",
+    "audio": "path/to/odibo_audio.mp3"
+  },
+  {
+    "name": "Ohwevwo",
+    "abbreviation": "Ohwo",
+    "meaning": "Good human relationship provides valuable support",
+    "audio": "path/to/ohwevwo_audio.mp3"
+  },
+  {
+    "name": "Ohwofasa",
+    "abbreviation": "Ofasa",
+    "meaning": "A person’s status should be defined by his/her achievement.",
+    "audio": "path/to/ohwofasa_audio.mp3"
+  },
+  {
+    "name": "Ohwonigho",
+    "abbreviation": "Igho",
+    "meaning": "A child is greater than riches",
+    "audio": "path/to/ohwonigho_audio.mp3"
+  },
+  {
+    "name": "Omonoro",
+    "abbreviation": "Monoro, Oro",
+    "meaning": "A child is greater than gold",
+    "audio": "path/to/omonoro_audio.mp3"
+  },
+  {
+    "name": "Onanefe",
+    "abbreviation": "Efe, Ona",
+    "meaning": "This child is greater than riches",
+    "audio": "path/to/onanefe_audio.mp3"
+  },
+  {
+    "name": "Omodibo",
+    "abbreviation": "Modibo",
+    "meaning": "Young disciple/servant",
+    "audio": "path/to/omodibo_audio.mp3"
+  },
+  {
+    "name": "Omoefe",
+    "abbreviation": "Omo, Efe",
+    "meaning": "Child is wealth",
+    "audio": "path/to/omoefe_audio.mp3"
+  },
+  {
+    "name": "Omovigho",
+    "abbreviation": "Omo, Igho",
+    "meaning": "Child brings wealth",
+    "audio": "path/to/omovigho_audio.mp3"
+  },
+  {
+    "name": "Onofeghara",
+    "abbreviation": "Efe, Nofeghara",
+    "meaning": "Who shares his wealth with others",
+    "audio": "path/to/onofeghara_audio.mp3"
+  },
+  {
+    "name": "Onoharhigbo",
+    "abbreviation": "Igho, Noharhigbo",
+    "meaning": "Who blames riches/ wealth",
+    "audio": "path/to/onoharhigbo_audio.mp3"
+  },
+  {
+    "name": "Obiebi",
+    "abbreviation": "Biebi",
+    "meaning": "Dark",
+    "audio": "path/to/obiebi_audio.mp3"
+  },
+  {
+    "name": "Ododo",
+    "abbreviation": "Dodo",
+    "meaning": "Red",
+    "audio": "path/to/ododo_audio.mp3"
+  },
+  {
+    "name": "Ofuafo",
+    "abbreviation": "Fuafo",
+    "meaning": "White",
+    "audio": "path/to/ofuafo_audio.mp3"
+  },
+  {
+    "name": "Ofuako",
+    "abbreviation": "Fuako",
+    "meaning": "One with white teeth",
+    "audio": "path/to/ofuako_audio.mp3"
+  },
+  {
+    "name": "Omoyibo",
+    "abbreviation": "Moyibo",
+    "meaning": "Little fair person",
+    "audio": "path/to/omoyibo_audio.mp3"
+  },
+  {
+    "name": "Oyibo",
+    "abbreviation": "Oyibo",
+    "meaning": "Fair skinned",
+    "audio": "path/to/oyibo_audio.mp3"
+  },
+  {
+    "name": "Oyibonanarhoro",
+    "abbreviation": "Oyiborhoro, Oyibo, Oyibode",
+    "meaning": "A big fair-skinned person",
+    "audio": "path/to/oyibonanarhoro_audio.mp3"
+  },
+  {
+    "name": "Oyiborhoro",
+    "abbreviation": "Oyibode, Oyibo",
+    "meaning": "A big fair-skinned person",
+    "audio": "path/to/oyiborhoro_audio.mp3"
+  },
+  {
+    "name": "Oyiborode",
+    "abbreviation": "Oyibode, Oyibo",
+    "meaning": "A big fair-skinned person",
+    "audio": "path/to/oyiborode_audio.mp3"
+  },
+  {
+    "name": "Ohwahwa",
+    "abbreviation": "Hwahwa",
+    "meaning": "Harmattan/ Cold season",
+    "audio": "path/to/ohwahwa_audio.mp3"
+  },
+  {
+    "name": "Okposio",
+    "abbreviation": "Osio",
+    "meaning": "Heavy Rain",
+    "audio": "path/to/okposio_audio.mp3"
+  },
+  {
+    "name": "Osio",
+    "abbreviation": "Osio",
+    "meaning": "Rain",
+    "audio": "path/to/osio_audio.mp3"
+  },
+  {
+    "name": "Ogoro",
+    "abbreviation": "Ogoro",
+    "meaning": "Frog",
+    "audio": "path/to/ogoro_audio.mp3"
+  },
+  {
+    "name": "Okpogoro",
+    "abbreviation": "Ogoro",
+    "meaning": "A big toad",
+    "audio": "path/to/okpogoro_audio.mp3"
+  },
+  {
+    "name": "Okpara",
+    "abbreviation": "Okpara",
+    "meaning": "Born in Okpara",
+    "audio": "path/to/okpara_audio.mp3"
+  },
+  {
+    "name": "Omorogun",
+    "abbreviation": "Omo, Morogun",
+    "meaning": "Child born in Orogun",
+    "audio": "path/to/omorogun_audio.mp3"
+  },
+  {
+    "name": "Orogun",
+    "abbreviation": "Orogun",
+    "meaning": "Born in Orogun",
+    "audio": "path/to/orogun_audio.mp3"
+  },
+  {
+    "name": "Sapele",
+    "abbreviation": "Sapele",
+    "meaning": "Born in Sapele",
+    "audio": "path/to/sapele_audio.mp3"
+  },
+  {
+    "name": "Uduefebraye",
+    "abbreviation": "Efe, Uduefe",
+    "meaning": "Wealth gives them challenge or heartache",
+    "audio": "path/to/uduefebraye_audio.mp3"
+  },
+  {
+    "name": "Udumebraye",
+    "abbreviation": "Udume, Dumebraye",
+    "meaning": "My presence gives them heartache",
+    "audio": "path/to/udumebraye_audio.mp3"
+  },
+  {
+    "name": "Ufuoma",
+    "abbreviation": "Fuoma",
+    "meaning": "Peace of mind",
+    "audio": "path/to/ufuoma_audio.mp3"
+  },
+  {
+    "name": "Ughwubetine",
+    "abbreviation": "Betine",
+    "meaning": "No more deaths",
+    "audio": "path/to/ughwubetine_audio.mp3"
+  },
+  {
+    "name": "Uruemuesiri",
+    "abbreviation": "Esiri, Uruemu",
+    "meaning": "Good deeds",
+    "audio": "path/to/uruemuesiri_audio.mp3"
+  },
+  {
+    "name": "Umukoro",
+    "abbreviation": "Mukoro,Mokoro",
+    "meaning": "Young man",
+    "audio": "path/to/uruemuesiri_audio.mp3"
+  },
+  {
+    "name": "Omokoro",
+    "abbreviation": "Mukoro,Mokoro",
+    "meaning": "Young man",
+    "audio": "path/to/uruemuesiri_audio.mp3"
+  },
+  {
+    "name": "Uvo",
+    "abbreviation": "Uvo",
+    "meaning": "Dry season",
+    "audio": "path/to/uvo_audio.mp3"
+  },
+  {
+    "name": "Uloho",
+    "abbreviation": "Loho",
+    "meaning": "Iroko tree",
+    "audio": "path/to/uloho_audio.mp3"
+  },
+  {
+    "name": "Urhie",
+    "abbreviation": "Urhie",
+    "meaning": "River",
+    "audio": "path/to/urhie_audio.mp3"
+  },
+  {
+    "name": "Uhwokori",
+    "abbreviation": "Kokori",
+    "meaning": "Born in Uhwokori",
+    "audio": "path/to/uhwokori_audio.mp3"
+  }
+]
+

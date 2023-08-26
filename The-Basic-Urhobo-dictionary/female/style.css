@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 30px;
+  text-align: center;
+  background-color: #ffb3ff
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
+#dictionary-container {
+  margin-top: 20px;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.word {
+  border: 1px solid #dddddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
